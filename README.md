@@ -1,3 +1,3 @@
 # SecondoGit
 05/12/2024
-Secondo progetto di git
+Secondo progetto di git.
